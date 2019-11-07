@@ -18,6 +18,10 @@ nav {
 
 .restaurant-list {
   padding-top: 50px;
+  margin: 3%;
+  padding: 2%;
+  width: 40%;
+  }
 }
 *, *:before, *:after {
   box-sizing: border-box;
@@ -39,5 +43,5 @@ nav {
 }
 
 .location: hover {
-   background-color: #000000;
+   background-color: #ffffff;
 }
