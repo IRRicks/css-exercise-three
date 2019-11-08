@@ -9,13 +9,6 @@ body {
   width: 420px;
 }
 
-.restaurant-list {
-  padding-top: 50px;
-  margin: 3%;
-  padding: 2%;
-  width: 40%;
-  }
-}
 *, *:before, *:after {
   box-sizing: border-box;
 }
