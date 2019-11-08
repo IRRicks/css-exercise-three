@@ -4,11 +4,6 @@ body {
   font-size: 10px;
 }
 
-.container {
-  margin: 0 auto;
-  width: 420px;
-}
-
 *, *:before, *:after {
   box-sizing: border-box;
 }
